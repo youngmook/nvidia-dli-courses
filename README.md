@@ -85,6 +85,3 @@
         *   Fundamentals of Accelerated Computing with CUDA Python (영어)
 
 ---
-
-**[연락처 정보]**
-강의 요청 및 문의는 [여기에 강영묵님의 이메일 주소 또는 연락처를 기재해주세요. 소스에는 제공되지 않았습니다.] 로 주시면 감사하겠습니다.
