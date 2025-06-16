@@ -2,7 +2,8 @@
 
 ## 🚀 NVIDIA DLI (Deep Learning Institute) Ambassador 활동 소개
 
-저는 한국화학연구원의 강영묵이며, NVIDIA DLI Ambassador로서 딥러닝 및 가속 컴퓨팅 분야의 전문 지식을 공유하고 교육을 제공하고 있습니다. NVIDIA DLI Ambassador 프로그램은 대학, 연구소 등 교육 기관에 **무료 교육**을 제공하는 것을 원칙으로 합니다.
+저는 한국화학연구원의 강영묵이며, NVIDIA DLI Ambassador로서 딥러닝 및 가속 컴퓨팅 분야의 전문 지식을 공유하고 교육을 제공하고 있습니다. 
+NVIDIA DLI Ambassador 프로그램은 대학, 연구소 등 교육 기관에 **무료 교육**을 제공하는 것을 원칙으로 합니다.
 
 ### 💡 NVIDIA DLI 교육의 특징 및 장점
 
